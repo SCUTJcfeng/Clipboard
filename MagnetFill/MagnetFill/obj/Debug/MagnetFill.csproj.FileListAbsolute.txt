@@ -1,0 +1,9 @@
+c:\users\jc\documents\visual studio 2017\Projects\MagnetFill\MagnetFill\bin\Debug\MagnetFill.exe.config
+c:\users\jc\documents\visual studio 2017\Projects\MagnetFill\MagnetFill\bin\Debug\MagnetFill.exe
+c:\users\jc\documents\visual studio 2017\Projects\MagnetFill\MagnetFill\bin\Debug\MagnetFill.pdb
+c:\users\jc\documents\visual studio 2017\Projects\MagnetFill\MagnetFill\obj\Debug\MagnetFill.csprojResolveAssemblyReference.cache
+c:\users\jc\documents\visual studio 2017\Projects\MagnetFill\MagnetFill\obj\Debug\MagnetFill.Form1.resources
+c:\users\jc\documents\visual studio 2017\Projects\MagnetFill\MagnetFill\obj\Debug\MagnetFill.Properties.Resources.resources
+c:\users\jc\documents\visual studio 2017\Projects\MagnetFill\MagnetFill\obj\Debug\MagnetFill.csproj.GenerateResource.Cache
+c:\users\jc\documents\visual studio 2017\Projects\MagnetFill\MagnetFill\obj\Debug\MagnetFill.exe
+c:\users\jc\documents\visual studio 2017\Projects\MagnetFill\MagnetFill\obj\Debug\MagnetFill.pdb
